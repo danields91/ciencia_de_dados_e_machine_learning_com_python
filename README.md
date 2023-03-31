@@ -1,1 +1,2 @@
-# ciencia_de_dados_e_machine_learning_com_python
+# Repositório contendo arquivos ipynb gerados no Jupyter Notebook
+# Ciência de Dados e Machine Learning utilizando a linguagem Python
